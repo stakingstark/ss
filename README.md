@@ -1,2 +1,3 @@
-# ss
-Staking Stark
+# Staking Stark
+
+## Simplified and easy staking.
