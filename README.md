@@ -1,3 +1,3 @@
 # Staking Stark
 
-## Simplified and easy staking.
+Simplified and easy staking.
